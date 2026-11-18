@@ -29,7 +29,7 @@ Menerapkan konfigurasi lengkap pada router MikroTik yang berjalan di **RouterOS 
 ## Variabel yang Harus Dikonfirmasi Sebelum Eksekusi
 Tanyakan kepada pengguna dan ganti placeholder berikut:
 - `RAHASIA_RADIUS` → secret RADIUS yang sama dengan di CHR.
-- `L4ll14n4` → Pre-Shared Key IPsec yang diinginkan.
+- `PasKEYmu` → Pre-Shared Key IPsec yang diinginkan.
 - Alamat CHR: default `10.10.10.1` (konfirmasi jika berbeda).
 - Interface LAN: default `bridge-LAN` (konfirmasi nama interface sebenarnya).
 - Port COA: default `3799` (konfirmasi jika CHR dikonfigurasi berbeda).
